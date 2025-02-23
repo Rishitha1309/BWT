@@ -26,7 +26,7 @@
 
 4. **Run**  
    ```bash
-   python train_models.py  # Train and evaluate models
+   python train_base_models.py  # Train and evaluate models
    ```
    This will output trained models in the `base_models/` directory along with feature names.
 
